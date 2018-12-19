@@ -1,0 +1,208 @@
+@font-face {
+    font-family: "HoonSaemaulundongR";
+    src: local(HoonSaemaulundongR),
+        url("HoonSaemaulundongR.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    background-color: #fffcf9;
+}
+
+img {
+    margin-top: 0px;
+}
+
+#logo_background {
+    background-color: #e3d3c6;
+    width: 1920px;
+    height: 200px;
+}
+
+.Contact_Us {
+    margin-top: 638px;
+    width: 1920px;
+    height: 100px;
+    background-color: #E3D3C6;
+    font-weight: normal;
+    font-size: 40px;
+    color: #b4b3b3;
+}
+
+#Contact {
+    width: 200px;
+    height: 100px;
+    line-height: 100px;
+    margin-left: 10px;
+    float: left;
+}
+
+#DGSW {
+    width: 520px;
+    height: 100px;
+    line-height: 100px;
+    margin-left: 30px;
+    float: left;
+}
+
+#E-mail {
+    width: 590px;
+    height: 100px;
+    line-height: 100px;
+    margin-left: 30px;
+    float: left;
+}
+
+#Call {
+    width: 360px;
+    height: 100px;
+    line-height: 100px;
+    margin-left: 30px;
+    margin-right: 150px;
+    float: left;
+}
+
+.img1 {
+    background-color: #e3e3e3;
+    border: 20px solid;
+    border-color: #e3e3e3;
+    height: 400px;
+    width: 400px;
+    margin-left: 330px;
+    margin-right:132px;
+}
+
+.img2 {
+    background-color: #e3e3e3;
+    border: 20px solid;
+    border-color: #e3e3e3;
+    height: 400px;
+    width: 400px;
+    margin-left: 132px;
+    margin-right: 300px;
+}
+
+.percent {
+    font-family: "HoonSaemaulundongR";
+    font-size: 55pt;
+    color: #b5a191;
+    text-align: center;
+    line-height: 400px;
+}
+
+.name1 {
+    font-family: "HoonSaemaulundongR";
+    font-size: 40pt;
+    color: #b5a191;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.name2 {
+    font-family: "HoonSaemaulundongR";
+    font-size: 40pt;
+    color: #b5a191;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 50px;
+    margin-right: 200px;
+}
+
+.imgsmall1 {
+    background-color: #e3e3e3;
+    border: 20px solid;
+    border-color: #e3e3e3;
+    height: 245px;
+    width: 250px;
+    margin-left: 500px;
+}
+
+.imgsmall2 {
+    background-color: #e3e3e3;
+    border: 20px solid;
+    border-color: #e3e3e3;
+    height: 245px;
+    width: 250px;
+    margin-left: 0px;
+}
+
+#snsshare{
+    border-radius: 0.3em;
+    background: #B5A191;
+    font-size: 50px;
+    color: #fbfbfb;
+    font-family: "HoonSaemaulundongR";
+}
+
+#Result {
+    width: 1920px;
+    height: auto;
+}
+
+.menu {
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.menu ul {
+    float: right;
+    padding: 0px;
+    list-style: none;
+    margin: 0px;
+}
+
+.menu ul li {
+    background-color: #B5A191;
+    width: 220px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 7px;
+    position: relative;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fbfbfb;
+    display: block;
+    font-size: 22px;
+    font-family: "HoonSaemaulundongR";
+}
+
+.menu ul li ul a:hover {
+    background-color: #d4b3b3;
+    border-radius: 7px;
+}
+
+.menu ul ul {
+    display: none;
+    position: absolute;
+}
+
+.menu ul li:hover > ul {
+    display: block;
+}
+
+input {
+    outline: none;
+}
+
+.Name {
+    width: 250;
+    height: 50px;
+    margin-left: 810px;
+    text-align:center;
+    border-radius:0.3em;
+    font-size:30px;
+    border-color:#E3E3E3;
+    color:#737373;
+    font-family: "HoonSaemaulundongR";
+}
+
+input::placeholder {
+  color:#737373;
+  font-family: "HoonSaemaulundongR";
+}

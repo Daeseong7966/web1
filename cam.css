@@ -1,0 +1,100 @@
+@font-face {
+    font-family: "HoonSaemaulundongR";
+    src: local(HoonSaemaulundongR),
+         url("HoonSaemaulundongR.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    margin : 0;
+    background-color: #fffcf9;
+}
+
+#Logo {
+    width:1920px;
+    height:150px;
+    background-color:#E3D3C6;
+}
+
+#capture{
+    margin-top:47px;
+    float:left;
+    margin-left:230px;
+    position:absolute;
+}
+
+
+.face{
+    margin-top: 20px;
+    margin-right:910px;
+    width: 100px;
+    float:right;
+    font-size:25px;
+    background-color: #B5A191;
+    border: none;
+    color:#fbfbfb;
+    padding: 15px 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: "HoonSaemaulundongR";
+}
+
+#captured{
+    margin-top:27px;
+    margin-left:1050px;
+    
+}
+
+#Contact_Us{
+    margin-top: 40px;
+    width: 1920px;
+    height: 100px;
+    background-color: #E3D3C6;
+    font-weight: normal;
+    font-size: 40px;
+    color: #b4b3b3;
+    font-family: "HoonSaemaulundongR";
+}
+    
+#Contact{
+    width:200px;
+    height:100px;
+    line-height:100px;
+    margin-left:10px;
+    float:left;
+    font-size: 45px;
+}   
+
+#DGSW{
+    width:520px;
+    height:100px;
+    line-height:100px;
+    margin-left:30px;
+    float:left;
+}
+
+#E-mail{
+    width:590px;
+    height:100px;
+    line-height:100px;
+    margin-left:30px;
+    float:left;
+}
+
+#Call{
+    width:360px;
+    height:100px;
+    line-height:100px;
+    margin-left:30px;
+    margin-right:150px;
+    float:left;
+}
+
+#facebutton {
+    width: 1920px;
+    height: 55px;
+}

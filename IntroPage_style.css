@@ -1,0 +1,192 @@
+@font-face {
+    font-family: "HoonSaemaulundongR";
+    src: local(HoonSaemaulundongR),
+         url("HoonSaemaulundongR.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    background-color: #fffcf9;
+    margin: 0px;
+}
+
+img {
+    margin-top: 0px;
+}
+
+#logo_background {
+    background-color: #e3d3c6;
+    width: 1920px;
+    height: 200px;
+}
+
+#Contact_Us{
+    margin-top: 50px;
+    width: 1920px;
+    height: 100px;
+    background-color: #E3D3C6;
+    font-weight: normal;
+    font-size: 40px;
+    color: #b4b3b3;
+    font-family: "HoonSaemaulundongR";
+}
+    
+#Contact{
+    width:200px;
+    height:100px;
+    line-height:100px;
+    margin-left:10px;
+    float:left;
+    font-size: 45px;
+}   
+
+#DGSW{
+    width:520px;
+    height:100px;
+    line-height:100px;
+    margin-left:30px;
+    float:left;
+}
+
+#E-mail{
+    width:590px;
+    height:100px;
+    line-height:100px;
+    margin-left:30px;
+    float:left;
+}
+
+#Call{
+    width:360px;
+    height:100px;
+    line-height:100px;
+    margin-left:30px;
+    margin-right:150px;
+    float:left;
+}
+
+.Introduce {
+    margin-bottom: 150px;
+}
+
+#Introgksrmf {
+    font-family: "HoonSaemaulundongR";
+    font-size: 40pt;
+    color: #e3d3c6;
+    text-align: center;
+}
+
+.Introimg1 {
+    height: 340px;
+    width: 340px;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.Introimg2 {
+    height: 340px;
+    width: 340px;
+    margin-left: 40px;
+    margin-right: 95px;
+}
+
+.percent {
+    font-family: "HoonSaemaulundongR";
+    font-size: 55pt;
+    color: #b5a191;
+    text-align: center;
+    line-height: 330px;
+}
+
+.Intro {
+    font-family: "HoonSaemaulundongR";
+    font-size: 25pt;
+    color: #b5a191;
+    border: 3px solid;
+    border-color: #e3d3c6;
+    padding: 20px;
+    width: 800px;
+    height: 330px;
+}
+
+.name1 {
+    font-family: "HoonSaemaulundongR";
+    font-size: 40pt;
+    color: #b5a191;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 150px;
+    margin-right: 200px;
+}
+
+.name2 {
+    font-family: "HoonSaemaulundongR";
+    font-size: 40pt;
+    color: #e3d3c6;
+    text-align: center;
+    line-height: 30px;
+    margin-left: 220px;
+}
+
+.menu {
+    margin-right: 80px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.menu ul {
+    float: right;
+    padding: 0px;
+    list-style: none;
+    margin: 0px;
+}
+
+.menu ul li {
+    background-color: #B5A191;
+    width: 220px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 7px;
+    position: relative;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fbfbfb;
+    display: block;
+    font-size: 22px;
+    font-family: "HoonSaemaulundongR";
+}
+
+.menu ul li ul a:hover {
+    background-color: #d4b3b3;
+    border-radius: 7px;
+}
+
+.menu ul ul {
+    display: none;
+    position: absolute;
+}
+
+.menu ul li:hover > ul {
+    display: block;
+}
+
+#TopButton{
+    width:100px;
+    background-color: #B5A191;
+    border: none;
+    color:#fbfbfb;
+    padding: 15px 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px;
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    font-family: "HoonSaemaulundongR";
+}
